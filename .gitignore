@@ -27,6 +27,7 @@ target/
 .env
 .env.*
 !.env.example
+.ConventionalCommits
 
 # =========================
 # Docker

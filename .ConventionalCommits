@@ -1,9 +1,0 @@
-| Tipo       | Uso                                     | Exemplo                                 |
-| ---------- | --------------------------------------- | --------------------------------------- |
-| `feat`     | Nova funcionalidade                     | `feat: add user repository`             |
-| `fix`      | Correção de erro                        | `fix: close ResultSet correctly`        |
-| `refactor` | Melhorar código sem mudar comportamento | `refactor: extract connection method`   |
-| `docs`     | Documentação                            | `docs: add JDBC notes`                  |
-| `test`     | Testes                                  | `test: add user repository tests`       |
-| `chore`    | Configuração/manutenção                 | `chore: configure docker compose`       |
-| `build`    | Maven/dependências/build                | `build: add mysql connector dependency` |
