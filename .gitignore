@@ -28,6 +28,7 @@ target/
 .env.*
 !.env.example
 .ConventionalCommits
+db.properties
 
 # =========================
 # Docker
